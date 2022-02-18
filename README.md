@@ -1,2 +1,2 @@
-# CoronaEstimation
-Estimates the risk of Corona
+# CoronaPrediction
+Predicts the risk of Corona
